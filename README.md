@@ -18,6 +18,6 @@ This tool was written by the "corsor" tool.
 Utilizing the simulation dragging function, move the files in sequence to achieve automation and directly convert from dcx to fbx.
 
 # Important Statement：
-1.This tool may have some hidden issues that I haven't discovered. And I myself only provided the writing ideas for the cursor; I am not the creator of the framework.
+1.This tool may have some hidden issues that I haven't discovered, and I myself merely provided the writing ideas for the cursor，I am the creator of the framework.
 
 2.This tool is merely for integrating and transforming processes. All the tools used are clearly labeled and there are no modifications or profits involved. If there is any infringement, please contact me to have it removed.
