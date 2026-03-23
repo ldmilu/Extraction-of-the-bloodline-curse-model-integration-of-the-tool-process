@@ -1,2 +1,3 @@
 # Extraction-of-the-bloodline-curse-model-integration-of-the-tool-process
 The tools used for extracting the bloodline curse model are too scattered and the extraction process is very cumbersome. This is an integrated workflow that enables direct conversion of dcx files into fbx files. It will also include the tools used and their links, and if there is any infringement, please let me know so I can delete them.
+The tools used:
